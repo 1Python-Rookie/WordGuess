@@ -1,6 +1,6 @@
 import random
 import time
-
+# this is a test
 print("This is my rock, paper, scissors game. \n Type an option then press 'Enter'")
 choices = ["Rock", "Paper", "Scissors"]
 player_points = 0
